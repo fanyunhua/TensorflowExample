@@ -1,0 +1,6 @@
+model_checkpoint_path: "mnist_model-137803"
+all_model_checkpoint_paths: "mnist_model-137403"
+all_model_checkpoint_paths: "mnist_model-137503"
+all_model_checkpoint_paths: "mnist_model-137603"
+all_model_checkpoint_paths: "mnist_model-137703"
+all_model_checkpoint_paths: "mnist_model-137803"
